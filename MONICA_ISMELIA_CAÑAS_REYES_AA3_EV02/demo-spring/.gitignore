@@ -57,7 +57,7 @@ logs/
 Thumbs.db
 
 # Configuración local (¡nunca lo subas!)
-application.properties
+
 .env
 
 # Base de datos embebida (si usaste H2)
