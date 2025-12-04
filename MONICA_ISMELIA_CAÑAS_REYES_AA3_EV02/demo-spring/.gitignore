@@ -62,4 +62,4 @@ application.properties
 
 # Base de datos embebida (si usaste H2)
 *.db
-
+/~WRL0003.tmp
